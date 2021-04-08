@@ -1,4 +1,5 @@
 # Counting_connected_object
+# Countiong objects in a mask :D
 This piece of code shows an example of how to use 'skimage.morphology.label' to count objects in an image.
 
 This it will be very useful to count for example number of objects in a mask...

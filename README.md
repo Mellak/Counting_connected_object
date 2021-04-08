@@ -6,8 +6,9 @@ I wish it will be helpful
 
 
 Example :
+For this figure
 
 ![Figure_3](https://user-images.githubusercontent.com/40334681/114102256-49dbfd80-98c7-11eb-81f9-667d94242309.png)
 
 
-with connectivity 2 there is 5 object, and with connectivity 1 we have 5 object.
+Output in console : with connectivity 2 there is 5 object, and with connectivity 1 we have 5 object.
